@@ -2,9 +2,8 @@ Sobre o projeto
 O dashboard transforma dados brutos de vendas em informações visuais claras, permitindo uma análise rápida do desempenho comercial das assinaturas Xbox Game Pass e EA Play ao longo de 2024.
 
 Estrutura do repositório
-dashboard-xbox-dio/
-├── dashboard_xbox.xlsx   # Planilha com a base de dados e o dashboard completo
-└── README.md             # Documentação do projeto
+dashboard_xbox.xlsx  
+            
 
 Dados utilizados
 A base contém 20 registros de vendas de assinaturas com as seguintes colunas:
@@ -25,7 +24,7 @@ Gráfico de pizza — proporção de renovações Sim × Não
 Como reproduzir
 
 Baixe o arquivo dashboard_xbox.xlsx
-Abra no Microsoft Excel (recomendado) ou Google Sheets
+Abra no Microsoft Excel
 Acesse a aba Dashboard para visualizar os gráficos e KPIs
 Os dados ficam na aba Base — edite à vontade e os gráficos atualizam automaticamente
 
